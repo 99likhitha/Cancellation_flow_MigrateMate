@@ -11,10 +11,10 @@ Implement the Figma-designed cancellation journey exactly on mobile + desktop, p
 ## What's Provided
 
 This repository contains:
-- ✅ Next.js + TypeScript + Tailwind scaffold
-- ✅ `seed.sql` with users table (25/29 USD plans) and empty cancellations table
-- ✅ Local Supabase configuration for development
-- ✅ Basic Supabase client setup in `src/lib/supabase.ts`
+- Next.js + TypeScript + Tailwind scaffold
+- `seed.sql` with users table (25/29 USD plans) and empty cancellations table
+- Local Supabase configuration for development
+- Basic Supabase client setup in `src/lib/supabase.ts`
 
 ## Tech Stack (Preferred)
 
@@ -106,7 +106,7 @@ The current `cancellations` table is intentionally minimal. You'll need to:
 ## Deliverables
 
 1. **Working implementation** in this repository
-2. **NEW One-page README.md (replace this)** (≤600 words) explaining:
+2. NEW One-page README.md explaining:
    - Architecture decisions
    - Security implementation
    - A/B testing approach
